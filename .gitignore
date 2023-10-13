@@ -1,0 +1,16 @@
+.serverless
+coverage
+backend/node_modules
+frontend/node_modules
+backend/dewais/yarn.lock
+.nyc_output
+*.log
+.dynamodb
+.env
+.tmp
+pacts
+logs
+*-lock.json
+.webpack
+.DS_Store
+.idea
